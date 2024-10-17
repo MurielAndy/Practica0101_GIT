@@ -4,7 +4,7 @@ import sys
 
 
 def mi_funcionSuma(A, B, C, imprime = True):
-    resultado=A+B+C
+    resultado = A+B+C
     if imprime != False:
         print(resultado)
     return resultado
